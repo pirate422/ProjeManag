@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899793070588",
+    "project_id": "projemanag-fce43",
+    "storage_bucket": "projemanag-fce43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899793070588:android:d5f282411b668e6170aa79",
+        "android_client_info": {
+          "package_name": "com.projemanag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSFyZRauqzCM6f7gYEt_hdW_ZgapUXRMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
